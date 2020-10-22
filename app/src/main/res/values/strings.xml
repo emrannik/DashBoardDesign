@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">DashBoardDesign</string>
+
+    <string-array name="video_bangla">
+    <item>J31j24f4y0o</item>
+    <item>OxHScj7RqhI</item>
+    <item>-xkn5pbvr-A</item>
+    <item>oON6ebgWkZU</item>
+    <item>4MAnbje9ndQ</item>
+    <item>2V9znWAaOFg</item>
+    <item>P08XjRkOmpU</item>
+    <item>4l7Yy-u4Rq8</item>
+    <item>-yw418VpWSs</item>
+    <item>PkMpQvIw1NY</item>
+    <item>YTkad-WV9C8</item>
+    <item>gL4pGiGuL18</item>
+    <item>FmOOWmtnnIE</item>
+    <item>5FF-vF-WjWI</item>
+    </string-array>
+
+    <string-array name="video_hindi">
+    <item>tQ0mzXRk-oM</item>
+    <item>-AJ7cLi1Jfk</item>
+    <item>m-JIofHHU6s</item>
+    <item>qoq8B8ThgEM</item>
+    <item>WlWlGlvN4L4</item>
+    <item>WIscAgQz2Gs</item>
+    <item>P0SWPIfClJI</item>
+    <item>1JCszwP5tl8</item>
+    <item>u6bk53x2Kno</item>
+    <item>qCgjpLEzBkg</item>
+    <item>L7TbPUOn1hc</item>
+    <item>0HzTH8Tyliw</item>
+    <item>gcHH34cEl3Y</item>
+    <item>7ZU6X0wyzgc</item>
+    <item>etV36Ny3PKM</item>
+    <item>prwUFBsDRLk</item>
+    <item>QpvEWVVnICE</item>
+    <item>lD0-ztCFydA</item>
+    <item>rCwMriYK0Yw</item>
+    <item>7bq3GqEuDlQ</item>
+    <item>AJyIqxp9yqM</item>
+    </string-array>
+</resources>
